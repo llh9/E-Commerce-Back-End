@@ -14,14 +14,17 @@ Tag.init(
       primaryKey: true,
       autoIncrement: true
     },
+    tag_name: {
+      type: DataTypes.STRING,
+      allowNull: false
+    },
     product_id: {
       type: DataTypes.INTEGER,
       references: {
         model: Product,
         key: 'id'
       }
-    },
-
+    }
   },
   {
     sequelize,

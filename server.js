@@ -14,7 +14,7 @@ app.use(routes);
 //const seedAll = require('./seeds/index')
 
 // sync sequelize models to the database, then turn on the server
-sequelize.sync({ force: true })
+sequelize.sync({ force: false })
 .then(() => {
   // seedall.seedAll();
   app.listen(PORT, () => console.log(`App listening on port ${PORT}!`));
