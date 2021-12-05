@@ -1,20 +1,18 @@
 # E-Commerce-Back-End
 
     
-## [Description](#description)
+### [Description](#description)
     
 For this project I was given the task to build the back end for an e-commerce site by modifying starter code and configure a working Express.js API to use Sequelize to interact with a MySQL database.
     
-### Motivation
-    
+### [Motivation](#Motivation)
+
 The motivation behind this project comes from e-commerce being the largest sector of the electronics industry, and the need for me as a developer to understand the fundamental architecture of platforms like Shopify and WooCommerce who provide a suite of services to businesses of all sizes.
-    
-### Problems Solved 
-    
+     
+### [Problems Solved](#Motivation)
 One of the most problematic issues I encountered involved finding the correct syntax to perform the POST and PUT Methods. The  sequelize documentation was very useful in providing the information that I needed to implement the features of this application.
     
-### What I learned 
-    
+### [What I learned](#Motivation)
 From completing this assignment I have learned how to use MySQL Databases, Sequelize, and Express together to send data to and from a client application and server database that implements Object Relational Mapping of the data it stores.
     
 ## [Table of Contents](#table-of-contents)
@@ -49,23 +47,15 @@ To install this application use the link the link to Github repository located i
     
 To use this application 
     
-## [Walkthrough Video](https://watch.screencastify.com/v/GGwCSXMdfz8yFtvbkKCa)
+## [Walkthrough Video](https://watch.screencastify.com/v/GGwCSXMdfz8yFtvbkKCa) <-link
     
 ### [Demo Screenshot 1](#demo-screenshot-1)
     
-![screenshot demo ](./SS1.PNG)
-    
-### [Demo Screenshot 2](#demo-screenshot-2)
-    
-![screenshot demo](./SS2.PNG)
-    
-### [Demo Screenshot 3](#demo-screenshot-3)
-    
-![screenshot demo](./SS3.PNG)
+![screenshot demo ](./assets/ECBE_SS.PNG)
     
 ## [Test](#test)
     
-This very README file was created using this application and all of these responses are designated as the default values
+This application itself is the testing of the routes and functioins that manipulates the data in the database.
     
 ## [Badges](#badges)
     
@@ -90,10 +80,12 @@ If you created an application or package and would like other developers to cont
 ## [Questions](#questions)
     
 Email me at llh9@yahoo.com
+### Walkthrough Video link
+[https://watch.screencastify.com/v/GGwCSXMdfz8yFtvbkKCa ](https://watch.screencastify.com/v/GGwCSXMdfz8yFtvbkKCa) 
+
 
 ### Repository link
-
-[https://github.com/llh9/README-Gnerator](https://github.com/llh9/README-Gnerator)
+[https://github.com/llh9/E-Commerce-Back-End](https://github.com/llh9/E-Commerce-Back-End)
     
 ## [License](#license)
     
