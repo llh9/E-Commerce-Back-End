@@ -49,7 +49,7 @@ To install this application use the link the link to Github repository located i
     
 To use this application 
     
-## [Walkthrough Video](https://watch.screencastify.com/v/U2QpCko7skGyMEGyo3ZA)
+## [Walkthrough Video](https://watch.screencastify.com/v/GGwCSXMdfz8yFtvbkKCa)
     
 ### [Demo Screenshot 1](#demo-screenshot-1)
     
